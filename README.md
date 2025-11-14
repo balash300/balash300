@@ -1,11 +1,11 @@
 ![MasterHead](https://images.squarespace-cdn.com/content/v1/55a3fd98e4b08799f6f08154/1586558112308-XROG9JCYDIEJEY53NQQD/Matrix_Cascade.gif)
 <h1 align="center">Hi 👋, I'm Balash</h1>
-<h3 align="center">A passionate java developer from Azerbaijan</h3>
+<h3 align="center">A passionate Software developer from Azerbaijan</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balash300&label=Profile%20views&color=0e75b6&style=flat" alt="balash300" /> </p>
 
-- 💬 Ask me about **Java, Spring Boot, Html, Css, Javascript, React**
+- 💬 Ask me about **Java, Spring Boot, C#, ASP.Net, Dart, Flutter, Html, Css, Javascript, React**
 
 - 📫 How to reach me **balashuseynov300@gmail.com**
 
